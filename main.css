@@ -1,0 +1,17 @@
+p{
+	color: green;
+}
+div { 
+	width: 100%; /* Ширина */
+ }
+/* по классу */
+.div2 { 
+	width: 50%; /* Ширина */
+	}
+/* по id*/
+#hhh{
+	background-color: #7c7cf7;
+	font-size: 25px;
+	text-align: center
+	font-weight: bold;
+}
